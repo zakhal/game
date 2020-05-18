@@ -1,0 +1,20 @@
+﻿  Source.c
+C:\Users\sgxar\source\repos\game\game\Source.c(101,46): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(102,57): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(102,63): warning C4020: 'drawIntro': too many actual parameters
+C:\Users\sgxar\source\repos\game\game\Source.c(104,51): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(104,57): warning C4020: 'drawIntro': too many actual parameters
+C:\Users\sgxar\source\repos\game\game\Source.c(106,13): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(108,57): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(108,63): warning C4020: 'drawIntro': too many actual parameters
+C:\Users\sgxar\source\repos\game\game\Source.c(127,49): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(127,55): warning C4020: 'drawMap': too many actual parameters
+C:\Users\sgxar\source\repos\game\game\Source.c(128,58): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(128,64): warning C4020: 'drawMap': too many actual parameters
+C:\Users\sgxar\source\repos\game\game\Source.c(129,48): warning C4020: 'printStats': too many actual parameters
+C:\Users\sgxar\source\repos\game\game\Source.c(131,13): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(176,50): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(176,56): warning C4020: 'drawMap': too many actual parameters
+C:\Users\sgxar\source\repos\game\game\Source.c(194,59): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+C:\Users\sgxar\source\repos\game\game\Source.c(196,14): warning C4048: different array subscripts: 'int (*)[10]' and 'int [10][20]'
+  game.vcxproj -> C:\Users\sgxar\source\repos\game\Debug\game.exe
